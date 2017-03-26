@@ -1,0 +1,28 @@
+
+.container-fluid{
+    padding:0 !important;
+}
+.col-xs-4{
+    background:rgb(0,0,0);    
+}
+
+.main-jumbotron{
+	position: center;
+}
+
+img {
+  border-radius: 100%; // full circular image
+  -webkit - border-radius: 100%;
+  -moz - border-radius: 100%;
+  -o - border-radius: 100%;
+  display: block;
+  margin-left: 46.5%;
+}
+
+h1 {
+	text-align: center;
+	color: #e10000;
+	display: block;
+	background-color: red;
+
+}
